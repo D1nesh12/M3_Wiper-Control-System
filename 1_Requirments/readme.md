@@ -33,5 +33,4 @@ Features
   
   ![two](https://user-images.githubusercontent.com/68462123/167818897-2ab71c7f-9ed6-43d1-8219-ad050e91f6ae.png)
 
-![BAT](https://github.com/D1nesh12/M3_Wiper-Control-System/assets/102590808/a8dfbfe7-3bc8-4d27-81ba-dac849de0a6d)
 
